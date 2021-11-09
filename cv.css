@@ -1,0 +1,36 @@
+body {
+	text-align: center;
+	background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+h1{
+	font-size: 3em;
+	color: #FFE033;
+}
+
+.color{
+	color: black;
+	font-size: 1.5em;
+}
+
+.police{
+	font-size: 1.5em;
+}
+
+.police2{
+	background: grey;
+	background-size: 4em 25%;
+	font-size: 1em;
+}
+
+div{
+	font-size: 10px;
+	color: #cccccc;
+	line-break: anywhere;
+	word-break: normal;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;
+	font-weight: 100;
+}

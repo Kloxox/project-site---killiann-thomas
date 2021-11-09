@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap%27');
+body{
+	font-family: "Open sans";
+}
+
+.titre{
+	border: black solid 1px;
+	text-align: center;
+	background: white;
+	margin: 20px 20px 0px 20px;
+}
+
+.text1{
+	margin: 20px 0px 0px 500px;
+}
+
+.centrehaut{
+	margin: -1375px 0px 0px 20px;
+}	
+
+.img{
+position: fixed;
+top: 0%;
+lef: 0%;
+bottom: 100%;
+right: 64%;
+z-index: -1;
+}
+
+.centre2{
+	margin: 0px 0px 0px -20px;
+	list-style-type: square;
+}
